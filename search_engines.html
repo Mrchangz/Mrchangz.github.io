@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        label{
+            padding: 10px 5px 5px 5px;
+            font-size: x-large;
+            font-family: 'kaiti';
+            text-shadow: 1px 1px 1px grey;
+        }
+        div{
+            background-color: hsl(140, 50%, 80%);
+            border-style: dotted;
+            align-items: center;
+            justify-content: center;
+            justify-items: center;
+            padding-top: 10%;
+            min-width: 200px;
+            min-height: 150px;
+            max-height: 200px;
+            max-width: 300px;
+            margin: 20px;
+        }
+        .baidu{
+            border-width: 5px;
+            border-radius: 15px;
+            border-color: aqua;
+        }
+        .sougou{
+            background-color: hsl(80, 50%, 80%);
+            border-width: 5px;
+            border-radius: 15px;
+            border-color: hsl(20, 70%, 60%);
+        }
+        .bing{
+            background-color: hsl(180, 70%, 80%);
+            border-width: 5px;
+            border-radius: 15px;
+            border-color:blueviolet;
+        }
+        body{
+            display: flex;
+            margin: 15%;
+            background-color: rgba(244, 224, 197, 0.944);
+        }
+        input{
+            height: 35px;
+            border-style:dashed;
+            border-radius: 8px;
+            border-color: darkred;
+        }
+    </style>
+</head>
+<body>
+    <div class="baidu">
+        <form method="get" action="https://www.baidu.com/s">
+            <label for="search">百度</label>
+            <input type="text" name="wd">
+            <input type="submit" value="查找">
+        </form>
+    </div>
+    <div class="sougou">
+        <form method="get" action="https://www.sogou.com/web?">
+            <label for="search">搜狗</label>
+            <input type="text" name="query">
+            <input type="submit" value="查找">
+        </form>
+    </div>
+    <div class="bing">
+        <form method="get" action="https://cn.bing.com/search?">
+            <label for="search">必应</label>
+            <input type="text" name="q">
+            <input type="submit" value="查找">
+        </form>
+    </div>
+</body>
+</html>
