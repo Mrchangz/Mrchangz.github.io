@@ -5,5 +5,5 @@
 
 
 ### 2.作业2
-#### (1)[引擎搜索](https://github.com/Mrchangz/Mrchangz.github.io/search_engines.html)
+#### (1)[引擎搜索](https://Mrchangz.github.io/search_engines.html)
 完成课上实现的引擎搜索功能，实现百度、搜狗、bing三种引擎的功能，用简单的css进行装饰
