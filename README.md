@@ -2,7 +2,7 @@
 ## 计算机科学与技术入门第二次作业
 ### 2100011603 卢宇宸
 ### 1.作业1
-#### (1)[词频统计]()
+#### (1)[词频统计](https://Mrchangz.github.io/frequency_analysis.html)
 选择龙族人物进行词频分析，用词云和柱状图的形式将结果可视化
 #### (2)[中国地图](https://Mrchangz.github.io/airlines.html)
 利用Geo库实现航线动态描绘
