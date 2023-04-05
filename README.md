@@ -7,6 +7,7 @@
 #### (2)[中国地图](https://Mrchangz.github.io/airlines.html)
 利用Geo库实现航线动态描绘
 #### (3)[组合图表](https://Mrchangz.github.io/cross_plots.html)
+用Page库实现一页多图的布局，并进行一定的优化
 
 ### 2.作业2
 #### (1)[引擎搜索](https://Mrchangz.github.io/search_engines.html)
