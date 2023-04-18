@@ -13,5 +13,6 @@
 #### (1)[引擎搜索](https://Mrchangz.github.io/search_engines.html)
 完成课上实现的引擎搜索功能，实现百度、搜狗、bing三种引擎的功能，用简单的css进行装饰
 #### (2)[“共现”分析](https://Mrchangz.github.io/relationship.html)
-a.选择龙族人物分析人物“共现”，生成关系图\\
+a.选择龙族人物分析人物“共现”，生成关系图
+
 b.用本次课学到的网页设计技术，设计一个简单的网页，放置关系图和相关说明
